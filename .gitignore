@@ -36,6 +36,7 @@ local.properties
 bin/
 gen/
 out/
+build/
 aidls/gen/
 code/gen/
 classes/
